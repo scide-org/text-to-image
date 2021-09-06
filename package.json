@@ -1,5 +1,5 @@
 {
-  "name": "@scide/text-to-image",
+  "name": "text-to-image-lines",
   "version": "0.0.0-development",
   "description": "A library for generating an image data URI representing an image containing the text of your choice.",
   "author": "Fredrik Boström",
