@@ -3,10 +3,10 @@
   "version": "0.0.0-development",
   "description": "A library for generating an image data URI representing an image containing the text of your choice.",
   "author": "Fredrik Boström",
-  "homepage": "https://github.com/bostrom/text-to-image#readme",
-  "repository": "https://github.com/bostrom/text-to-image",
+  "homepage": "https://github.com/scide-org/text-to-image#readme",
+  "repository": "https://github.com/scide-org/text-to-image",
   "bugs": {
-    "url": "https://github.com/bostrom/text-to-image/issues"
+    "url": "https://github.com/scide-org/text-to-image/issues"
   },
   "keywords": [
     "text",
