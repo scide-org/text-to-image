@@ -1,6 +1,6 @@
 {
   "name": "text-to-image-lines",
-  "version": "0.0.2-development",
+  "version": "0.0.3-development",
   "description": "A library for generating an image data URI representing an image containing the text of your choice.",
   "author": "Fredrik Boström",
   "homepage": "https://github.com/scide-org/text-to-image#readme",
